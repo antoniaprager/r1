@@ -4,7 +4,7 @@
 >- *14.11.1907 ; +28.1.2002
 >- ca.165 Mio. Bücher
 >- 106 verschiedene Sprachen
->- z.B.: Pippi Langstrumpf, Michel aus Lönneberga, Ronja Räubertochter oder Kal-le Blomquist
+>- z.B.: Pippi Langstrumpf, Michel aus Lönneberga, Ronja Räubertochter oder Kalle Blomquist
 
 #Hauptpersonen
 >- Mio (Bo Vilhelm Olsson)
