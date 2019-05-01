@@ -16,10 +16,11 @@
 
 #Handlung
 >- Weisenknabe (Realität)
->- Anderswelt (Traumwelt) in zwei Teile geteilt (gut = hell, böse = dunkel)
+>- Anderswelt (Traumwelt) in zwei Teile geteilt  
+ (gut = Insel der grünen Wiesen, böse = Das Land ausserhalb)
 >- Vater, Jum-Jum, Miramis
 >- schönes Leben, berauscht
->- lernt Bewohner von heller Seite kennen
+>- lernt Bewohner von guter Seite kennen
 >- Geheimnis
 - jeder kennt es außer Mio 
 
