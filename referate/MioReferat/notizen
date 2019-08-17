@@ -1,2 +1,0 @@
-pandoc -t beamer referat.md -o referat.pdf
-#pandoc -t beamer S3.md -o S3.pdf
