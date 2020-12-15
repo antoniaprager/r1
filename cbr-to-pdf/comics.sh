@@ -6,8 +6,16 @@ var1=$1
 var2=${var1%.cbr}
 var3=$(basename "$var2")
 
-unrar x "$var1"
-convert "$var3/*.jpg" "$var3.pdf"
- 
+mytemp=$(mktemp -d)
 
+cp "$var1" $mytemp
+pushd $mytemp
+
+
+unrar e "$var1"
+convert *.jpg "$var3.pdf"
+ 
+popd
+
+mv $mytemp/*pdf .
 
