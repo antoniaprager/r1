@@ -12,7 +12,7 @@ cp "$var1" $mytemp
 pushd $mytemp
 
 
-unrar e "$var1"
+unrar e "$var3.cbr"
 convert *.jpg "$var3.pdf"
  
 popd
