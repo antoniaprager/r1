@@ -1,0 +1,4 @@
+curl -X POST \
+  -d "{\"temperature\": 30}" \
+  https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry \
+  --header "Content-Type:application/json" 
