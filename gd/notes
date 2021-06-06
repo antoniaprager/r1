@@ -1,0 +1,39 @@
+    2  adafruit
+    3  sudo nano mydht11.py
+    4  sudo pip3 install Adafruit_DHT
+    5  cat mydht11.py
+    6  curl -v -X POST -d "print("Humidity={1:0.1f}%.".format(humidity))" https://demo.thingsboard.io/api/v1/$ACCSESS_TOKEN/telemetry --header "Content-Type:application/json!
+    7  vi 
+    8  setxkbmap us
+    9  vi
+   10  ACCESS_TOKEN=ShahchieH1gouhae
+   11  HUMIDITY=25
+   12  TEMPERATURE=25
+   13  curl -v -X POST   -d "{\"temperature\": ${TEMPERATURE}}"   https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry   --header "Content-Type:application/json" 
+   14  fg
+   15  echo curl -v -X POST   -d "{\"temperature\": ${TEMPERATURE}}"   https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry   --header "Content-Type:application/json" 
+   16  setxkbmap de
+   17  TEMPERATUR=25
+   18  ACCSESS_TOKEN=hUd74Gn6v8MTwVPXCr9O
+   19  TEMPERATUR=25
+   20  curl -v -X POST   -d "{\"temperature\": ${TEMPERATURE}}"   https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry   --header "Content-Type:application/json" 
+   21  ACCSESS_TOKEN=hUd74Gn6v8MTwVPXCr9O
+   23  curl -v -X POST   -d "{\"temperature\": ${TEMPERATURE}}"   https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry   --header "Content-Type:application/json" 
+   24  ACCSESS_TOKEN=
+   25  * Copying HTTP/2 data in stream bu changed (HTTP/2 confirmed)
+   27  TEMPERATUR=18
+   28  curl -v -X POST   -d "{\"temperature\": ${TEMPERATURE}}"   https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry --header "Content-Type:application/json" 
+   29  echo $TEMPERATUR
+   30  echo $TEMPERATURE 
+   31  curl -v -X POST   -d "{\"temperature\": 30}"   https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry --header "Content-Type:application/json" 
+   33  echo $ACCESS_TOKEN 
+   34  history 
+   35  history  > notes
+
+ACCESS_TOKEN=hUd74Gn6v8MTwVPXCr9O
+TEMPERATURE25
+
+curl -X POST \
+  -d "{\"temperature\": 30}" \
+  https://demo.thingsboard.io/api/v1/$ACCESS_TOKEN/telemetry \
+  --header "Content-Type:application/json" 
