@@ -1,0 +1,1 @@
+Dieses Projekt ist im Rahmen des Girls-Day 2021 enstanden. Hier misst ein Raspberry Pi mit Hilfe eines Sensors die Luftfeuchtigkeit und die Temperatur und schickt diese Daten an die IoT-Plattform "Thingsboard".
